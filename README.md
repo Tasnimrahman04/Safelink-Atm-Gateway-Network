@@ -47,6 +47,6 @@ SafeLink ATM Gateway Network is a secure ATM simulation developed in 8086 Assemb
 ## Run
 
 ```bash
-tasm CSE341_Project.asm
-tlink CSE341_Project.obj
-CSE341_Project.exe
+SafeLink ATM Gateway Network_PROJECT.asm
+SafeLink ATM Gateway Network_PROJECT.obj
+SafeLink ATM Gateway Network_PROJECT.exe
